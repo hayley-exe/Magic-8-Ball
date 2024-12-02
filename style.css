@@ -3,3 +3,15 @@
   background-color: rebeccapurple;
   border-radius: 5px;
 }
+
+body {
+  background: rgb(12, 10, 13);
+  background: linear-gradient(
+    328deg,
+    rgba(12, 10, 13, 1) 0%,
+    rgba(24, 0, 52, 1) 51%,
+    rgba(56, 0, 145, 1) 100%
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+}

@@ -34,7 +34,7 @@ function shakeMagic8Ball() {
         break;
       case 5:
         eightBall = 'My sources say no';
-        responseImg = 'imgs/nerp.jpg'
+        responseImg = 'imgs/nerp.png'
         break;
       case 6:
         eightBall = 'Outlook not so good';
@@ -42,7 +42,7 @@ function shakeMagic8Ball() {
         break;
       case 7:
         eightBall = 'Signs point to yes';
-        responseImg = 'imgs/signyes.jpg'
+        responseImg = 'imgs/signyes.png'
         break;
     }
 
