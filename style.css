@@ -1,17 +1,17 @@
 .btn {
-  border-color: darkslateblue;
+  border-color: white;
   background-color: rebeccapurple;
   border-radius: 5px;
+  color: lavenderblush;
 }
 
 body {
-  background: rgb(12, 10, 13);
-  background: linear-gradient(
-    328deg,
-    rgba(12, 10, 13, 1) 0%,
-    rgba(24, 0, 52, 1) 51%,
-    rgba(56, 0, 145, 1) 100%
+  background: rgb(117, 0, 145);
+  background: radial-gradient(
+    circle,
+    rgba(117, 0, 145, 1) 0%,
+    rgba(118, 0, 255, 1) 79%,
+    rgba(51, 0, 255, 1) 98%
   );
-  background-size: cover;
-  background-repeat: no-repeat;
+  color: ghostwhite;
 }
